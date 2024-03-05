@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 
-**AnthoNoel/AnthoNoel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 💬 Hello, I'm Anthony, I'm currently training as a web developer at the O'clock school, where I found a real passion.
 
 🔭 I’m currently working on PHP/SYMFONY  
