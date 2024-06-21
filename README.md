@@ -9,3 +9,4 @@
 📄 You will be able to discover the different small projects that I do to practice on a daily basis, and continue to learn.  
 🥰 I really have a preference for the backend, but I am also impatient to discover all the features that the frontend offers us
 
+<img src="https://profile-counter.glitch.me/{anthonoel}/count.svg" alt="anthonoel :: Visitor's Count" />
