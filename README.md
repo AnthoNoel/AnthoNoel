@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-💬 Hello, I'm Anthony, I'm currently training as a web developer at the O'clock school, where I found a real passion.
+💬 Hello, I'm Anthony, I made a career change, where I found a real passion.
 
 🔭 I’m currently working on PHP/SYMFONY  
 👯 I have been working in a factory for almost 10 years now.  
